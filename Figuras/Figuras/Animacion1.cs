@@ -133,7 +133,9 @@ namespace Figuras
 
         private void btnFinal_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide();
+            Animacion3D animacion3D = new Animacion3D();
+            animacion3D.Show();
         }
     }
 }

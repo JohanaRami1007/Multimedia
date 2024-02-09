@@ -49,7 +49,7 @@
             btnFinal.Name = "btnFinal";
             btnFinal.Size = new Size(113, 52);
             btnFinal.TabIndex = 1;
-            btnFinal.Text = "Finalizar";
+            btnFinal.Text = "Siguiente";
             btnFinal.UseVisualStyleBackColor = true;
             btnFinal.Click += btnFinal_Click;
             // 
